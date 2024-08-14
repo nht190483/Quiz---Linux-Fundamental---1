@@ -1,0 +1,26 @@
+1. Linux là một hệ điều hành, đúng hay sai? 
+A. False
+2. Đâu là vai trò của hệ điều hành?
+A. Quản lý và phân bổ tài nguyên
+ 
+3. Người dùng có thể trực tiếp tương tác với phần cứng của máy tính mà không cần thông qua shell?
+B. False
+ 
+4. Một tiến trình là …
+D. Một chương trình chạy
+ 
+5. Đâu là chức năng mà shell phục vụ?
+C. Nhận câu lệnh từ người dùng và thực thi chúng
+ 
+6. Tệp tin nào lưu trữ định nghĩa các tài khoản người dùng trong hệ thống?
+B. /etc/users
+ 
+7. Linux filesystem bao gồm?
+D. Tất cả các phương án trên
+ 
+8. Phương án nào biểu diễn đường dẫn tuyệt đối? (chọn 2 đáp án)
+A. /home/ubuntu/test.txt
+D. /etc/nginx/config.d
+ 
+9. Tất cả các tệp tin cho thiết bị ngoại vi(device) được lưu trữ trong thư mục nào?
+B. /dev
